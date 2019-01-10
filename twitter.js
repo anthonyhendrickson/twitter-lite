@@ -38,7 +38,8 @@ const defaults = {
 const JSON_ENDPOINTS = [
   "direct_messages/events/new",
   "direct_messages/welcome_messages/new",
-  "direct_messages/welcome_messages/rules/new"
+  "direct_messages/welcome_messages/rules/new",
+  "collections/entries/curate"
 ];
 
 const baseHeaders = {
